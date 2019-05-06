@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Vincent X. Gong"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Vincent X. Gong"
 description              : &description "personal description"
-url                      : https://academic.gong.im # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.gong.im/VG_web_academic/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vincentgong7/VG_web_academic"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
