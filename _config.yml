@@ -81,13 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Vincent X. Gong"
-  avatar           : "https://avatars1.githubusercontent.com/u/6648355?s=460&v=4"
-  bio              : "Ph.D. candidate looking for job in 2019"
-  location         : "Delft University of Technology"
+  # avatar           : "https://avatars1.githubusercontent.com/u/6648355?s=460&v=4"
+  avatar           : "vincent.png"
+  bio              : "Ph.D. candidate, Delft University of Technology"
+  location         : "Delft, The Netherlands"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.nl/citations?user=btkoOEQAAAAJ&hl=en&oi=sra"
-  email            :
+  email            : "vincent.gong7@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -265,6 +266,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

@@ -1,50 +1,81 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+{% include base_path %}
+Using social media data, such as Twitter and Instagram, I identify relevant information, develop data models, estimate and analysis crowds characteristics in city events, including demographic composition, spatial–temporal distribution, sentiment characteristics, Points of Interest preferences and word use, which help crowd managers make better decisions.
 
-A data-driven personal website
+In this website, you can find my CV below, and the summary of my research in the [Portfolio](/portfolio/) section.
+
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* Ph.D. in Transport & Planning, Delft University of Technology, 2016 - 2020 (expected).
+  * Topic: using social media data to investigate crowds characteristics in city events.
+  * Supervisor: Winnie Daamen, Alessandro Bozzon, Serge P. Hoogendoorn.
+* M.S. in Computer Science, Delft University of Technology, 2013 - 2016
+  * Data Science track, Information Architecture programme.
+  * Thesis: [Exploring Human Activity Patterns Across Cities through Social Media Data](https://repository.tudelft.nl/islandora/object/uuid:724e13c7-6ee9-45f5-a765-d36d6ce1d5e6).
 
-Getting started
+<!-- Work experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3 -->
 
-**Markdown generator**
+Publications
+======
+*  Gong, Vincent X., Jie Yang, Winnie Daamen, Alessandro Bozzon, Serge Hoogendoorn, and Geert-Jan Houben. [Using Social Media for Attendees Density Estimation in City-Scale Events.](https://ieeexplore.ieee.org/document/8374412) <i>IEEE Access</i> 6 (2018): 36325-36340.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Honours and awards
+======
+* [Norvig Web Data Science Award 2014](https://github.com/norvigaward/naward07).
+A challenge to discover similar images in a given WARC dataset considering various factors, such as temporal factors and context information. The dataset was crawled from internet and contains various web file formats. We performed the comparison using MapReduce framework.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<!-- Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> -->
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Conference presentations
+======
+* “Estimate sentiment of crowds from social media during city events.” [Transportation Research Board Annual Meeting](http://amonline.trb.org/68387-trb-1.4353651/t0023-1.4366018/1599-1.4366521/19-04989-1.4366522/19-04989-1.4366523?qr=1), 2019.
+* “Estimate sentiment of crowds from social media during city events” [TRAIL Congress](http://rstrail.nl/new/program-congress-2018/), 2018.
+* “Crowd characterization for crowd management using social media data in city events.” [Transportation Research Board Annual Meeting](https://trid.trb.org/View/1496139), 2018.
+* “Using social media for attendees density estimation in city-scale events.” [ICT.OPEN](https://ict-research.nl/ict-open/), 2017.
+
+
+Teaching
+======
+* Supervise student in social media data analysis, [Amsterdam Institute for Advanced Metropolitan Solutions (AMS)](https://www.ams-institute.org/), 2017.
+
+<!-- Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
+
+<br/>
+<!-- :musical_score: Updated: May 15, 2019 -->
+:palm_tree: Updated: May 15, 2019
