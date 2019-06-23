@@ -47,6 +47,8 @@ Skills
 Publications
 ======
 *  Gong, Vincent X., Jie Yang, Winnie Daamen, Alessandro Bozzon, Serge Hoogendoorn, and Geert-Jan Houben. [Using Social Media for Attendees Density Estimation in City-Scale Events.](https://ieeexplore.ieee.org/document/8374412) <i>IEEE Access</i> 6 (2018): 36325-36340.
+*  Gong, Vincent X., Winnie Daamen, Alessandro Bozzon, Serge P. Hoogendoorn. [Estimate Sentiment of Crowds from Social Media during City Events.](https://journals.sagepub.com/doi/10.1177/0361198119846461) <i>Transportation Research Record</i>, (June 2019). doi:10.1177/0361198119846461.
+
 
 Honours and awards
 ======
