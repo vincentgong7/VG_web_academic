@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Using social media data, such as Twitter and Instagram, I identify relevant information, develop data models, estimate and analyse crowds characteristics in city events, including demographic composition, spatial–temporal distribution, sentiment characteristics, Points of Interest preferences and word use, which help crowd managers make better decisions.
+Using social media data, such as Twitter and Instagram, I identify relevant information, develop data models, estimate and analyse crowds characteristics in city events, including demographic composition, spatial-temporal distribution, sentiment characteristics, Points of Interest preferences and word use, which help crowd managers make better decisions.
 
 In this website, you can find my CV below, and the summary of my research in the [Portfolio](/portfolio/) section.
 
