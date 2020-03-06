@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Using social media data, such as Twitter and Instagram, I identify relevant information, develop data models, estimate and analyse crowds characteristics in city events, including demographic composition, spatial-temporal distribution, sentiment characteristics, Points of Interest preferences and word use, which help crowd managers make better decisions.
+Using social media data, such as Twitter and Instagram, I identify relevant information, develop data models, estimate and analyse crowds' characteristics in city events, including demographic composition, Spatial-temporal distribution, sentiment characteristics, Points of Interest preferences and word use, which help crowd managers make better decisions.
 
 In this website, you can find my CV below, and the summary of my research in the [Portfolio](/portfolio/) section.
 
@@ -44,17 +44,12 @@ Skills
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+Journal Publications
 ======
 *  Gong, Vincent X., Jie Yang, Winnie Daamen, Alessandro Bozzon, Serge Hoogendoorn, and Geert-Jan Houben. [Using Social Media for Attendees Density Estimation in City-Scale Events.](https://ieeexplore.ieee.org/document/8374412) <i>IEEE Access</i> 6 (2018): 36325-36340.
-*  Gong, Vincent X., Winnie Daamen, Alessandro Bozzon, Serge P. Hoogendoorn. [Estimate Sentiment of Crowds from Social Media during City Events.](https://journals.sagepub.com/doi/10.1177/0361198119846461) <i>Transportation Research Record</i>, (June 2019). doi:10.1177/0361198119846461.
-
-
-Honours and awards
-======
-* [Norvig Web Data Science Award 2014](https://github.com/norvigaward/naward07).
-A challenge to discover similar images in a given WARC dataset considering various factors, such as temporal factors and context information. The dataset was crawled from internet and contains various web file formats. We performed the comparison using MapReduce framework.
-
+*  Gong, Vincent X., Winnie Daamen, Alessandro Bozzon, and Serge P. Hoogendoorn. [Estimate Sentiment of Crowds from Social Media during City Events.](https://journals.sagepub.com/doi/10.1177/0361198119846461) <i>Transportation Research Record</i>, (June 2019). doi:10.1177/0361198119846461.
+*  Gong, Vincent X., Winnie Daamen, Alessandro Bozzon, and Serge P. Hoogendoorn. [Crowd Characterization for Crowd Management using Social Media Data in City Events.](#) <i>This paper is currently under review for journal publication</i>, (Apr 2019).
+*  Gong, Vincent X., Winnie Daamen, Alessandro Bozzon, and Serge P. Hoogendoorn. [Counting people in the crowd using social media images for crowd management in city events.](#) <i>This paper is currently under review for journal publication</i>, (Jan 2020).
 
 <!-- Talks
 ======
@@ -69,6 +64,11 @@ Conference presentations
 * “Crowd characterization for crowd management using social media data in city events.” [Transportation Research Board Annual Meeting](https://trid.trb.org/View/1496139), 2018.
 * “Using social media for attendees density estimation in city-scale events.” [ICT.OPEN](https://ict-research.nl/ict-open/), 2017.
 
+Honours and awards
+======
+* [Norvig Web Data Science Award 2014](https://github.com/norvigaward/naward07).
+A challenge to discover similar images in a given WARC dataset considering various factors, such as temporal factors and context information. The dataset was crawled from internet and contains various web file formats. We performed the comparison using MapReduce framework.
+
 
 Teaching
 ======
@@ -80,4 +80,4 @@ Teaching
 
 <br/>
 <!-- :musical_score: Updated: May 15, 2019 -->
-:palm_tree: Updated: Nov 16, 2019
+:palm_tree: Updated: Mar 06, 2020

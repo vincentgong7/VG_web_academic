@@ -1,6 +1,6 @@
 ---
 title: "Estimate sentiment of crowds from social media during city events"
-excerpt: "Can tweets or Instagram pictures reflect the sentiment of people in a festival? An Interesting and critical challenge for crowd manager in city events. In this study, we explore a set of methods, e.g. machine learning methods and lexicon-based methods, to estimate sentiment of crowd from their social media posts. [[Link](https://journals.sagepub.com/doi/10.1177/0361198119846461)]<br/><img src='/files/sentiment_porfolio_title_image.png' width='500' height='300'>"
+excerpt: "Can tweets or Instagram posts reflect the sentiment of people in a festival? An Interesting and critical challenge for crowd manager in city events. In this study, we explore a set of methods, e.g. machine learning methods and lexicon-based methods, to estimate sentiment of crowd from their social media posts. [[Link](https://journals.sagepub.com/doi/10.1177/0361198119846461)]<br/><img src='/files/sentiment_porfolio_title_image.png' width='500' height='300'>"
 collection: portfolio
 ---
 
