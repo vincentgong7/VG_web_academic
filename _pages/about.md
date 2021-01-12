@@ -49,7 +49,7 @@ Journal Publications
 *  Gong, Vincent X., Jie Yang, Winnie Daamen, Alessandro Bozzon, Serge Hoogendoorn, and Geert-Jan Houben. [Using Social Media for Attendees Density Estimation in City-Scale Events.](https://ieeexplore.ieee.org/document/8374412) <i>IEEE Access</i> 6 (2018): 36325-36340.
 *  Gong, Vincent X., Winnie Daamen, Alessandro Bozzon, and Serge P. Hoogendoorn. [Estimate Sentiment of Crowds from Social Media during City Events.](https://journals.sagepub.com/doi/10.1177/0361198119846461) <i>Transportation Research Record</i>, (June 2019). doi:10.1177/0361198119846461.
 *  Gong, Vincent X., Winnie Daamen, Alessandro Bozzon, and Serge P. Hoogendoorn. [Crowd Characterization for Crowd Management using Social Media Data in City Events.](https://www.sciencedirect.com/science/article/pii/S2214367X19300985) <i>Travel Behaviour and Society</i>, (July 2020). doi:10.1016/j.tbs.2020.03.011
-*  Gong, Vincent X., Winnie Daamen, Alessandro Bozzon, and Serge P. Hoogendoorn. [Counting people in the crowd using social media images for crowd management in city events.](#) <i>This paper is currently under review for journal publication</i>, (Jan 2020).
+*  Gong, Vincent X., Winnie Daamen, Alessandro Bozzon, and Serge P. Hoogendoorn. [Counting people in the crowd using social media images for crowd management in city events.](https://link.springer.com/article/10.1007/s11116-020-10159-z) <i>Transportation </i>, (Jan 2021). doi:10.1007/s11116-020-10159-z
 
 <!-- Talks
 ======
@@ -80,4 +80,4 @@ Teaching
 
 <br/>
 <!-- :musical_score: Updated: May 15, 2019 -->
-:palm_tree: Updated: Mar 06, 2020
+:palm_tree: Updated: Jan 12, 2021
