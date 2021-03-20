@@ -13,12 +13,15 @@ Using social media data, such as Twitter and Instagram, I identify relevant info
 
 In this website, you can find my CV below, and the summary of my research in the [Portfolio](/portfolio/) section.
 
-Education
+Education & Research Work
 ======
 
+* Postdoctoral researcher in Human-Centered Artificial Intelligence Section in the Faculty of Industrial Design Engineering (IDE), Delft University of Technology, 2020 - 2021.
+  * Project: [PERISCOPE](https://www.linkedin.com/company/periscopeproject/about/), funded by EU, Pan-European Response to the ImpactS of COVID-19 and future Pandemics and Epidemics.
 * Ph.D. in Transport & Planning, Delft University of Technology, 2016 - 2020 (expected).
   * Topic: using social media data to investigate crowds characteristics in city events.
   * Supervisor: Winnie Daamen, Alessandro Bozzon, Serge P. Hoogendoorn.
+  * Graduated: Sep 2020
 * M.S. in Computer Science, Delft University of Technology, 2013 - 2016
   * Data Science track, Information Architecture programme.
   * Thesis: [Exploring Human Activity Patterns Across Cities through Social Media Data](https://repository.tudelft.nl/islandora/object/uuid:724e13c7-6ee9-45f5-a765-d36d6ce1d5e6).
@@ -80,4 +83,4 @@ Teaching
 
 <br/>
 <!-- :musical_score: Updated: May 15, 2019 -->
-:palm_tree: Updated: Jan 12, 2021
+:palm_tree: Updated: Mar 20, 2021
